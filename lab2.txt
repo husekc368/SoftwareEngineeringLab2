@@ -1,0 +1,58 @@
+Cody Husek
+Software Engineering 
+Lab 2 
+
+1)
+
+Source code control is imperative to software development whether you are working alone or in a team. GitHub allows you to keep a history of your work. Therefore you can always review or revert to previous versions. GitHub also allows collaboration among team members. This gives team members the ability to split up software assignments that backup in the same location. 
+
+
+2)
+
+Watch: User will recieve notifications for any new pull requests/issues (help.github.com)
+
+Star: User can keep track of a project that you find interesting. (help.github.com)
+
+Fork: Obtain a copy of a repository for yourself that will not affect the original repository. (help.github.com)
+
+3) 
+
+Bootstrap is a project that provides fast and easy web development. 
+
+4)
+
+1 Changed File 
+1 Addition
+1 Deletion
+
+5)
+
+Green shows added lines, red shows removed lines.
+
+6)
+
+A pull request lets others know about changes you have pushed to a repository. 
+
+Issues are used to track ideas/fixes/bugs for repositories. 
+
+7)
+
+Pulse gives an overview of a repository's activity. 
+
+8)
+
+git status prints whether your project is up to date and displays whether a particular file was modified or not. 
+
+
+
+9)
+
+10)
+
+11)
+
+12)
+
+13)
+
+
