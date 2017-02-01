@@ -11,7 +11,8 @@ public class Hello{
 	    x = sc.nextLine();
 	    System.out.println("Hello, " + x);
         System.out.println("Thanks for running, "+x);
-	
-		      
+        System.out.println("Aaron was here");
+        
+        
     }
 }
