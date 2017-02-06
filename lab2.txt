@@ -44,14 +44,22 @@ Pulse gives an overview of a repository's activity.
 git status prints whether your project is up to date and displays whether a particular file was modified or not. 
 
 
-
 9)
+
+Git status prints to the user any modified files that haven't yet been committed. 
+
 
 10)
 
+Git status shows that Hello.java was modified.
+
 11)
 
+Git status prints the recently committed file(s) with the commit message.
+
 12)
+
+Prints to user that everything is up to date after the push. 
 
 13)
 
